@@ -18,8 +18,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  ninjas_list = ["Naruto", "Sasuske","Obito", "Zabuto"]
-  ninjas_list << "arrays!"
+  ninjas_list = ["Naruto", "Sasuske","Obito", "arrays!"]
+ 
   ninjas_list.pop
 end
 
